@@ -1,0 +1,15 @@
+C:\Users\hp\Downloads\files\bin\Debug\net10.0-windows\YMH219-FlappyBird.exe
+C:\Users\hp\Downloads\files\bin\Debug\net10.0-windows\YMH219-FlappyBird.deps.json
+C:\Users\hp\Downloads\files\bin\Debug\net10.0-windows\YMH219-FlappyBird.runtimeconfig.json
+C:\Users\hp\Downloads\files\bin\Debug\net10.0-windows\YMH219-FlappyBird.dll
+C:\Users\hp\Downloads\files\bin\Debug\net10.0-windows\YMH219-FlappyBird.pdb
+C:\Users\hp\Downloads\files\obj\Debug\net10.0-windows\YMH219-FlappyBird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\files\obj\Debug\net10.0-windows\YMH219-FlappyBird.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\files\obj\Debug\net10.0-windows\YMH219-FlappyBird.AssemblyInfo.cs
+C:\Users\hp\Downloads\files\obj\Debug\net10.0-windows\YMH219-FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\files\obj\Debug\net10.0-windows\YMH219-FlappyBird.dll
+C:\Users\hp\Downloads\files\obj\Debug\net10.0-windows\refint\YMH219-FlappyBird.dll
+C:\Users\hp\Downloads\files\obj\Debug\net10.0-windows\YMH219-FlappyBird.pdb
+C:\Users\hp\Downloads\files\obj\Debug\net10.0-windows\YMH219-FlappyBird.genruntimeconfig.cache
+C:\Users\hp\Downloads\files\obj\Debug\net10.0-windows\ref\YMH219-FlappyBird.dll
+C:\Users\hp\Downloads\files\obj\Debug\net10.0-windows\YMH219-FlappyBird.sourcelink.json
